@@ -10,6 +10,6 @@
 * 10W：路演
 
 ### 团队成员介绍
-@vooniu
+@[vooniu](https://github.com/vooniu)
 
-@didicat
+@[didicat](https://github.com/Didicat)
