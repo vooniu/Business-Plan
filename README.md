@@ -1,4 +1,4 @@
-![](http://img.25pp.com/uploadfile/soft/images/2014/1104/20141104124836745.jpg)
+
 ### 项目名称：靓嗓
 ### 团队项目协作仓库地址：[BP](https://github.com/vooniu/Business-Plan)
 ### 项目概述:嗓音美工   
