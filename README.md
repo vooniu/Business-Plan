@@ -12,4 +12,3 @@
 ### 团队成员介绍
 @[vooniu](https://github.com/vooniu)
 
-@[didicat](https://github.com/Didicat)
